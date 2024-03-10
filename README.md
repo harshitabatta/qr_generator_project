@@ -1,2 +1,2 @@
 # qr_generator_project
-QR generator project using python done in 1st sem
+QR generator project using python as a part of 1st Semester project for python
